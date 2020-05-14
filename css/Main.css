@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    color: #333333;
+}
+.main_div {
+    background-color: bisque;
+    margin: 0 8%;
+}
+.main_h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Tahoma sans-serif ;
+    color: #522a1e;
+    padding: 70px 5px;
+    padding-bottom: 10px;
+}
+.main_span{
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    font-weight: 300;
+    font-size: 24px;
+    color: #dfa85b;
+    padding: 10px 5px;
+    padding-bottom: 70px;
+}
+.main_image {
+    width: 100%;
+}
